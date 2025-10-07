@@ -1,0 +1,213 @@
+County,Sub-County,Ward,sub location,Latitude,Longitude,Locality,Date of Start of Outbreak/Event,month,year,,Date of Report,Month,year,Disease/Condition,Nature of Diagnosis,Test Used,Species Affected,Number at Risk,No. sick,Number Dead,Number Slaughtered,Number Destroyed,Production System,Number of Humans Affected (If zoonosis),Disease Control Method,Number Vaccinated,"Organisation (GOK, Private)",Source
+Marsabit,Laisamis,Korr/Ngurunit,,2.0026836,37.50188,Village/Farm,12/4/2021,December,2021,,12/8/2021,December,2021,Brucellosis,Clinical,,Goats,52,8,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Korr/Ngurunit,,2.0100975,37.4966443,Village/Farm,12/6/2021,December,2021,,12/8/2021,December,2021,Brucellosis,Clinical,,Goats,26,5,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.584693,37.7959925,Village/Farm,12/13/2021,December,2021,,12/13/2021,December,2021,Brucellosis,Clinical,,Goats,39,11,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621212,36.4315625,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7622125,36.4315614,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621678,36.4315019,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Kirinyaga,Kirinyaga West,Kiine,,-0.623535,37.183103,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Vaccination]",0,GOK,KABS
+Kirinyaga,Kirinyaga West,Kiine,,-0.623535,37.183103,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Vaccination, Isolation]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga West,Kiine,,-0.623535,37.183103,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Vaccination, Isolation]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621464,36.4315495,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622126,36.4315592,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,12,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.160654,39.155571,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622112,36.4315643,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621208,36.431561,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622113,36.4315632,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,15,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-4.016991,39.658226,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Vaccination]",5,GOK,KABS
+Tana River,Bura,Bangale,,-0.7562234,36.4328789,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.509407,39.108785,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621687,36.4314958,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Vaccination]",5,GOK,KABS
+Tana River,Bura,Bangale,,-0.762211,36.4315641,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621688,36.4315566,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,12,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga West,Kiine,,-0.7621692,36.4314994,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Vaccination]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621817,36.4316051,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,,"[Vector Control, Quarantine]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621794,36.4315555,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Extensive,,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.509407,39.108785,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7622174,36.4315591,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Vaccination]",5,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621682,36.4314951,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622126,36.4315592,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621694,36.431494,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,39,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621577,36.4314994,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Kirinyaga,Mwea East,Gathigiriri,,-0.7592591,36.4349144,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621712,36.4315003,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Quarantine, Other]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621179,36.4315631,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Laikipia,Laikipia East,Nanyuki,,-0.7621712,36.4315003,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Cattle,13,2,0,0,0,Intensive,0,[No Action],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621794,36.4315555,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621687,36.4314974,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.778527,36.441847,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Kirinyaga,Kirinyaga West,Kiine,,-0.623535,37.183103,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,0,"[Vaccination, Isolation]",0,GOK,KABS
+Kirinyaga,Mwea West,Wamumu,,-0.7621688,36.4314967,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Other, Isolation]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.623535,37.183103,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7618778,36.4312344,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Mwea West,Kangai,,-0.7622126,36.4315603,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,[Vaccination],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.762159,36.4315087,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621672,36.4314994,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7621675,36.4314978,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Tana River,Galole,Mikinduni,,-0.7583614,36.4341494,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Extensive,0,"[Quarantine, Treatment]",5,GOK,KABS
+Mombasa,Mvita,Tudor,,-0.7622125,36.4315614,Village/Farm,12/16/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Vaccination, Other]",5,GOK,KABS
+Samburu,Samburu North,Angata Nanyokie,,1.4659921,36.7177935,Village/Farm,12/14/2021,December,2021,,12/16/2021,December,2021,Rabies,Clinical,,Donkey,6,1,0,0,1,Mixed,0,"[Stamping Out, Vaccination]",5,GOK,KABS
+Tana River,Bura,Bangale,,-0.7660043,36.4301174,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Anthrax,Clinical,,Cattle,3,2,2,0,0,Intensive,0,"[Treatment, Vaccination]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622114,36.4315628,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7622114,36.4315636,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7621208,36.4315624,Village/Farm,12/17/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Bungoma,Kabuchai,Kabuchai/Chwele,,0.690059,34.563484,Village/Farm,12/16/2021,December,2021,,12/17/2021,December,2021,Rabies,Clinical,,Cattle,6,1,0,0,0,Extensive,0,[Stamping Out],0,GOK,KABS
+Nakuru,Naivasha,Hells Gate,,-0.804482,36.467337,Village/Farm,12/18/2021,December,2021,,12/21/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,44,6,0,0,0,Intensive,0,[No Action],0,GOK,KABS
+Nyamira,Kitutu Masaba,Rigoma,,-0.7590112,34.959103,Village/Farm,12/17/2021,December,2021,,12/17/2021,December,2021,Brucellosis,Clinical,,Cattle,3,1,0,0,0,Mixed,0,[Treatment],0,GOK,KABS
+Nakuru,Naivasha,Hells Gate,,-0.804482,36.467337,Village/Farm,12/17/2021,December,2021,,12/21/2021,December,2021,Anthrax,Clinical,,Cattle,44,6,2,0,2,Intensive,0,[No Action],0,GOK,KABS
+Bungoma,Kabuchai,West Nalondo,,0.6093386,34.5789676,Village/Farm,12/8/2021,December,2021,,12/10/2021,December,2021,Rabies,Clinical,,Cattle,3,1,1,0,1,Mixed,0,[Treatment],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588646,36.4310779,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588658,36.4310729,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588904,36.431048,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588728,36.4310716,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588815,36.4310402,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588706,36.4310616,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588904,36.4310373,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588891,36.4310494,Village/Farm,12/15/2021,December,2021,,12/21/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588783,36.4310655,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588686,36.4310829,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588777,36.4310309,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588803,36.4310558,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588702,36.4310849,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588799,36.431076,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588683,36.4310755,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Intensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588749,36.4310763,Village/Farm,12/15/2021,December,2021,,12/16/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588775,36.4310671,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588782,36.4310591,Village/Farm,12/16/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588734,36.4310685,Village/Farm,12/15/2021,December,2021,,12/15/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588811,36.4310544,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588904,36.431048,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Vector Control, Quarantine]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588719,36.4310824,Village/Farm,12/15/2021,December,2021,,12/15/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588686,36.4310821,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588687,36.4310798,Village/Farm,12/15/2021,December,2021,,12/21/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588705,36.4310672,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588732,36.4310754,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588761,36.43106,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588699,36.4310768,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588725,36.4310575,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,33,2,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.758866,36.4310796,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7588904,36.431048,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Vector Control, Quarantine]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588776,36.4310736,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.758878,36.4310604,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,32,3,23,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588644,36.4310651,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588749,36.4310582,Village/Farm,12/16/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588715,36.4310759,Village/Farm,12/15/2021,December,2021,,12/15/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588707,36.4310844,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588781,36.4310725,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.860628,37.226172,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,[Treatment],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.758884,36.4310556,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588819,36.4310687,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,[Treatment],0,GOK,KABS
+Tana River,Bura,Bangale,,-0.7588825,36.4310515,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,21,12,0,0,0,Extensive,0,[Quarantine],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.758875,36.4310588,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,[Treatment],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7589067,36.4308774,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Kirinyaga,Kirinyaga central,Kerugoya,,-0.7588745,36.4310699,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,[Quarantine],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588807,36.4310629,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588747,36.4310793,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.758889,36.4310414,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588644,36.4310777,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588902,36.4310456,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.860628,37.226172,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,[Other],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588741,36.4310497,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Baragwi,,-0.7588745,36.4310693,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Intensive,,[Quarantine],0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.758869,36.431083,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Mixed,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588851,36.4310503,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588671,36.4310838,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588731,36.4310539,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588816,36.4310585,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588677,36.4310818,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7588829,36.4310427,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,[Treatment],5,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588872,36.4310576,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588714,36.4310857,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588734,36.4310865,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,[Other],0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588824,36.4310543,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Other, Isolation]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588825,36.4310544,Village/Farm,12/20/2021,December,2021,,12/20/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588786,36.4310712,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588804,36.4310662,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.860628,37.226172,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,,[Treatment],5,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.758881,36.4310524,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588742,36.4310682,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,[Other],0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588781,36.4310555,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,1,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588782,36.4310556,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Treatment, Other, Isolation]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588801,36.4310691,Village/Farm,12/20/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,3,1,0,0,0,Intensive,1,"[Treatment, Other]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.860628,37.226172,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Other, Treatment]",0,GOK,KABS
+Kajiado,Kajiado West,Iloodokilani,,-0.7588754,36.431066,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Cattle,13,2,0,0,0,Intensive,,[No Action],0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588853,36.4310528,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,Intensive,,"[Isolation, Treatment]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.512101,37.323154,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.512101,37.323154,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.512101,37.323154,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Extensive,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Bungoma,Kabuchai,West Nalondo,,0.6154341,34.5813897,Village/Farm,12/23/2021,December,2021,,12/23/2021,December,2021,Brucellosis,Clinical,,Cattle,6,1,0,0,0,Mixed,0,[Treatment],0,GOK,KABS
+Marsabit,Moyale,Butiye,,3.5204767,39.0490953,Village/Farm,12/22/2021,December,2021,,12/25/2021,December,2021,Brucellosis,Clinical,,Camel,56,1,1,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Bomet,Bomet East,Merigi,,-0.7745914,35.4019847,Village/Farm,12/22/2021,December,2021,,12/26/2021,December,2021,Rabies,Clinical,,Cattle,5,1,0,0,0,Intensive,3,"[Vaccination, Isolation]",0,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7588718,36.431076,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Other, Isolation]",0,GOK,KABS
+Bomet,Bomet East,Merigi,,-0.7745848,35.4026701,Village/Farm,12/21/2021,December,2021,,12/26/2021,December,2021,Rabies,Clinical,,Cattle,5,1,0,0,0,Intensive,3,[Vaccination],0,GOK,KABS
+Marsabit,North Horr,North Horr,,3.3060822,37.0488182,Village/Farm,12/10/2021,December,2021,,12/10/2021,December,2021,Rabies,Clinical,,Camel,12,2,2,0,2,Extensive,0,[No Action],0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7604635,36.4340976,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Cattle,15,5,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Nairobi,Embakasi East,Mihango,,-0.7604635,36.4340976,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Intensive,0,"[Treatment, Other]",5,GOK,KABS
+Nairobi,Dagoretti North,Kawangware,,-0.7604635,36.4340976,Village/Farm,12/22/2021,December,2021,,12/22/2021,December,2021,Rabies,Clinical,,Dogs,2,1,0,0,0,N/A,1,"[Isolation, Other]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7604635,36.4340976,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Goats,23,3,9,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kirinyaga,Kirinyaga East,Kabare,,-0.7604635,36.4340976,Village/Farm,12/15/2021,December,2021,,12/22/2021,December,2021,Rift Valley Fever (RVF),Clinical,,Sheep,31,14,0,0,0,Mixed,0,"[Quarantine, Vector Control]",0,GOK,KABS
+Kitui,Mwingi Central,Central,,-0.94114,38.057936,Village/Farm,12/22/2021,December,2021,,12/23/2021,December,2021,Brucellosis,Clinical,,Goats,0,3,0,0,0,Intensive,0,[Other],0,GOK,KABS
+Bomet,Sotik,Kipsonoi,Kipsonoi,0.7127,35.227,Village,8,December,21,28,12/24/2021,December,2021,Rabies,Laboratory,RAT,Cattle,150,1,1,0,0,Mixed,0,Advised,0,GOK,RVIL Kericho
+Bomet,Sotik,Kipsonoi,Kipsonoi,0.7127,35.227,Village,14,December,21,28,12/25/2021,December,2021,Rabies,Laboratory,RAT,Cattle,36,1,1,0,0,Mixed,0,Advised,0,GOK,RVIL Kericho
+Kericho,Kericho East,Ainamoi,Ainamoi,-0.287659,35.273598,Village,19,December,21,28,12/26/2021,December,2021,Rabies,Laboratory,RAT,Cattle,24,1,1,0,0,Mixed,0,Advised,0,GOK,RVIL Kericho
+Nairobi,Kasarani,Roy sambu,,-0.7588742,36.4310682,,1,December,2021,,12/27/2021,December,2021,Rift Valley Fever (RVF),Laboratory,"Necropsy, Giemsa",Cattle,200,1,1,,,N/A,0,N/A,,GOK,CVL
+Kiambu,Kiambu,Njathaini,Garden estate,-1.16667,36.888883,,1,December,2021,,12/28/2021,December,2021,Rabies,Laboratory,FAT,Dogs,3,1,1,,,N/A,0,N/A,,GOK,CVL
+Nairobi ,Langata,Karen,,-0.7588742,36.4310682,,14,December,2021,,12/29/2021,December,2021,Rabies,Laboratory,FAT,Dogs,1,1,1,,,N/A,0,N/A,,GOK,CVL
+Kiambu,Githunguri,Ndumberi,,-1.16667,36.888883,,18,December,2021,,12/30/2021,December,2021,Anthrax,Laboratory,Necropsy. Giemsa,Sheep,14,1,1,,,N/A,0,N/A,,GOK,CVL
+LAIKIPIA,LAIKIPIA WEST,DOLDOL,DOLDOL,N/A,N/A,VILLAGE,9,11,2021,4,11/10/2021,11,2021,RABIES,LABORATORY,RAPID ANTIGEN TEST,CANINE,2,1,0,0,0,INTENSIVE,0,N/A,N/A,GOK,RVIL Karatina
+LAIKIPIA,LAIKIPIA WEST,DOLDOL,DOLDOL,,,VILLAGE,9,11,2021,4,11/11/2021,11,2021,RABIES,LABORATORY,RAPID ANTIGEN TEST,CANINE,2,1,0,0,0,INTENSIVE,0,N/A,N/A,GOK,RVIL KARATINA
+Marsabit,North Horr,Turbi,,3.3024523,38.3774235,Village/Farm,10/13/2021,10,2021,,10/15/2021,10,2021,Rabies,Clinical,,Cattle,25,1,4,0,0,Extensive,,[No Action],0,GOK,KABS
+Marsabit,North Horr,Illeret,,4.2832525,36.260545,Village/Farm,10/8/2021,10,2021,,10/15/2021,10,2021,Anthrax,Clinical,,Cattle,32,5,2,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Bungoma,Kimilili,Maeni,,0.7827891,34.720183,Village/Farm,10/16/2021,10,2021,,10/16/2021,10,2021,Rabies,Clinical,,Dogs,1,1,0,0,0,Intensive,,[Vaccination],1,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.585819,37.7988318,Village/Farm,10/8/2021,10,2021,,10/16/2021,10,2021,Brucellosis,Clinical,,Sheep,15,3,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Bungoma,Kimilili,Maeni,,0.7827891,34.720183,Village/Farm,10/16/2021,10,2021,,10/16/2021,10,2021,Rabies,Clinical,,Dogs,1,1,0,0,0,Intensive,,[Vaccination],1,GOK,KABS
+Bungoma,Kimilili,Maeni,,0.7827891,34.720183,Village/Farm,10/16/2021,10,2021,,10/16/2021,10,2021,Rabies,Clinical,,Dogs,1,1,0,0,0,Intensive,,[Vaccination],1,GOK,KABS
+Marsabit,Laisamis,Korr/Ngurunit,,2.3288487,37.9883061,Village/Farm,10/17/2021,10,2021,,10/17/2021,10,2021,Brucellosis,Clinical,,Goats,79,16,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Bungoma,Kabuchai,West Nalondo,,19.3599807,-99.1471719,Village/Farm,10/16/2019,10,2021,,10/16/2021,10,2021,Brucellosis,Clinical,,Cattle,6,1,0,0,0,Mixed,0,[Treatment],0,GOK,KABS
+Marsabit,Saku,Sagante/Jaldesa,,2.3293386,37.9981509,Village/Farm,10/17/2021,10,2021,,10/18/2021,10,2021,Rabies,Clinical,,Cattle,1,11,0,0,0,Extensive,2,[Vaccination],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5813934,37.7945009,Village/Farm,10/18/2021,10,2021,,10/18/2021,10,2021,Brucellosis,Clinical,,Goats,76,7,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.3979499,37.7209567,Village/Farm,10/19/2021,10,2021,,10/19/2021,10,2021,Brucellosis,Clinical,,Goats,186,15,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.3979499,37.7209567,Village/Farm,10/19/2021,10,2021,,10/19/2021,10,2021,Brucellosis,Clinical,,Sheep,220,8,20,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5813934,37.7945009,Village/Farm,10/18/2021,10,2021,,10/18/2021,10,2021,Brucellosis,Clinical,,Sheep,113,17,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Moyale,Golbo,,3.346576,39.200592,Village/Farm,10/15/2021,10,2021,,10/19/2021,10,2021,Brucellosis,Clinical,,Goats,52,4,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Marsabit,Moyale,Golbo,,3.346479,39.200627,Village/Farm,10/16/2021,10,2021,,10/19/2021,10,2021,Brucellosis,Clinical,,Goats,46,3,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Marsabit,Saku,Sagante/Jaldesa,,2.3293386,37.9981509,Village/Farm,10/17/2021,10,2021,,10/18/2021,10,2021,Rabies,Clinical,,Dogs,1,1,0,0,0,Extensive,0,[Vaccination],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5351613,37.7601386,Village/Farm,10/20/2021,10,2021,,10/20/2021,10,2021,Brucellosis,Clinical,,Sheep,26,8,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5351613,37.7601386,Village/Farm,10/20/2021,10,2021,,10/20/2021,10,2021,Brucellosis,Clinical,,Goats,36,6,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5946317,37.8062805,Village/Farm,10/22/2021,10,2021,,10/22/2021,10,2021,Brucellosis,Clinical,,Goats,93,3,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Korr/Ngurunit,,1.8311898,37.4523131,Village/Farm,10/3/2021,10,2021,,10/23/2021,10,2021,Brucellosis,Clinical,,Goats,20,5,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Korr/Ngurunit,,2.0145756,37.4946443,Village/Farm,10/23/2021,10,2021,,10/23/2021,10,2021,Brucellosis,Clinical,,Goats,51,5,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Korr/Ngurunit,,2.2950634,37.920672,Village/Farm,10/24/2021,10,2021,,10/24/2021,10,2021,Brucellosis,Clinical,,Camel,25,7,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Elgeyo/Marakwet,Marakwet East,Sambirir,,1.072002,35.571091,Village/Farm,10/24/2021,10,2021,,10/24/2021,10,2021,Rabies,Clinical,,Sheep,12,3,0,0,0,Extensive,1,[Vaccination],0,GOK,KABS
+Marsabit,Moyale,Heillu/Manyatta,,3.494204,39.116013,Crush,10/12/2021,10,2021,,10/22/2021,10,2021,Brucellosis,Clinical,,Goats,64,6,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Marsabit,Moyale,Butiye,,3.45488,38.92786,Village/Farm,10/23/2021,10,2021,,10/25/2021,10,2021,Rabies,Clinical,,Dogs,2,1,1,0,0,Extensive,0,[Other],0,GOK,KABS
+Nyandarua,Ol Kalou,Karau,,-0.2630881,36.3532216,Village/Farm,10/23/2021,10,2021,,10/27/2021,10,2021,Brucellosis,Clinical,,Cattle,3,2,0,0,0,Mixed,0,[Treatment],0,GOK,KABS
+Marsabit,Moyale,Uran,,3.5574997,38.642661,Village/Farm,10/28/2021,10,2021,,10/28/2021,10,2021,Brucellosis,Clinical,,Cattle,6,2,4,0,0,Intensive,0,[Treatment],0,GOK,KABS
+Marsabit,Moyale,Golbo,,3.34656,39.200672,Village/Farm,10/25/2021,10,2021,,10/29/2021,10,2021,Brucellosis,Clinical,,Goats,21,9,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Bungoma,Kanduyi,Marakaru/Tuuti,,0.6204345,34.5339726,Village/Farm,10/29/2021,10,2021,,10/29/2021,10,2021,Rabies,Clinical,,Cattle,15,2,0,0,0,Mixed,0,[Vaccination],17,GOK,KABS
+Bungoma,Kanduyi,Marakaru/Tuuti,,0.6204345,34.5339726,Village/Farm,10/28/2021,10,2021,,10/29/2021,10,2021,Rabies,Clinical,,Dogs,4,1,1,0,1,N/A,0,[Vaccination],4,GOK,KABS
+Marsabit,Moyale,Moyale Township,,3.5125446,39.0651468,Market,10/15/2021,10,2021,,10/29/2021,10,2021,Brucellosis,Clinical,,Goats,96,6,0,0,0,Extensive,0,"[Treatment, Isolation]",0,GOK,KABS
+Marsabit,Moyale,Butiye,,3.359605,3897491,Village/Farm,10/25/2021,10,2021,,10/25/2021,10,2021,Rabies,Clinical,,Cattle,32,2,0,0,0,Extensive,0,[Vaccination],2,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5814131,37.7946024,Village/Farm,10/28/2021,10,2021,,10/28/2021,10,2021,Brucellosis,Clinical,,Goats,77,6,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5239902,37.7523363,Village/Farm,11/1/2021,11,2021,,11/1/2021,11,2021,Brucellosis,Clinical,,Goats,56,3,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Kitui,Mwingi Central,Kivou,,-0.872859,38.076203,Village/Farm,10/23/2021,10,2021,,10/30/2021,10,2021,Rabies,Clinical,,Donkey,2,1,0,0,0,Mixed,0,[Isolation],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.4332423,37.7245726,Village/Farm,11/2/2021,11,2021,,11/2/2021,11,2021,Brucellosis,Clinical,,Goats,56,3,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,2.3272942,38.0004673,Village/Farm,11/3/2021,11,2021,,11/3/2021,11,2021,Brucellosis,Clinical,,Goats,61,4,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.604888323,37.67228393,Village/Farm,11/5/2021,11,2021,,11/5/2021,11,2021,Brucellosis,Clinical,,Goats,45,5,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.5911585,37.8075185,Village/Farm,11/10/2021,11,2021,,11/10/2021,11,2021,Rabies,Clinical,,Goats,0,1,0,0,0,Extensive,,[Isolation],0,GOK,KABS
+Marsabit,Moyale,Butiye,,3.5091349,39.0552831,Village/Farm,11/9/2021,11,2021,,11/10/2021,11,2021,Brucellosis,Clinical,,Cattle,52,1,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Samburu,Samburu West,Maralal,,1.0922098,36.6999342,Abattoir,11/10/2021,11,2021,,11/10/2021,11,2021,Rabies,Clinical,,Sheep,2,1,0,0,1,Mixed,0,[Vaccination],1,GOK,KABS
+Elgeyo/Marakwet,Marakwet West,Sengwer,,1.0424384,35.2926491,Village/Farm,11/8/2021,11,2021,,11/7/2021,11,2021,Brucellosis,Clinical,,Cattle,2,1,0,0,0,Extensive,,[Treatment],0,GOK,KABS
+Marsabit,Laisamis,Laisamis,,1.551033882,37.72125486,Village/Farm,11/13/2021,11,2021,,11/13/2021,11,2021,Brucellosis,Clinical,,Goats,25,4,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Siaya,Bondo,Central Sakwa,,-0.1554596,34.1986135,Village/Farm,11/10/2021,11,2021,,11/13/2021,11,2021,Rabies,Laboratory,,Cattle,3,1,1,1,1,Mixed,2,[Quarantine],0,GOK,KABS
+Marsabit,Moyale,Obbu,,2.5670816,38.881147,Crush,11/2/2021,11,2021,,11/13/2021,11,2021,Brucellosis,Clinical,,Goats,231,9,0,0,0,Extensive,0,[Treatment],0,GOK,KABS
+Bungoma,Kabuchai,West Nalondo,,0.6191671,34.5727388,Village/Farm,11/11/2021,11,2021,,11/13/2021,11,2021,Brucellosis,Clinical,,Goats,5,2,0,0,0,Intensive,0,[Treatment],0,GOK,KABS
+Marsabit,Saku,Sagante/Jaldesa,,2.3290922,37.9981509,Village/Farm,11/1/2021,11,2021,,11/14/2021,11,2021,Brucellosis,Clinical,,Goats,40,6,0,0,0,Extensive,0,[No Action],0,GOK,KABS
+Marsabit,Laisamis,Logo Logo,,0.3895452,37.5993371,Village/Farm,9/8/2021,September,2021,,10/6/2021,October,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Extensive,0,Treatment,0,GOK,KABS
+Marsabit,Laisamis,Logo Logo,,0.3895453,37.5993367,Village/Farm,9/8/2021,September,2021,,10/6/2021,October,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Extensive,0,Treatment,0,GOK,KABS
+Marsabit,Laisamis,Logo Logo,,0.3895453,37.5993366,Village/Farm,9/8/2021,September,2021,,10/6/2021,October,2021,Anthrax,Clinical,,Cattle,3,1,2,0,0,Extensive,0,Treatment,0,GOK,KABS

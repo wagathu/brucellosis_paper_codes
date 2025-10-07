@@ -1,0 +1,283 @@
+County,species,species_num
+Mombasa,Sheep,4584
+Mombasa,Goats,50822
+Mombasa,Camels,116
+Mombasa,Donkeys,136
+Mombasa,Pigs,6064
+Mombasa,cattle,21302
+Kwale,Sheep,181230
+Kwale,Goats,764820
+Kwale,Camels,2192
+Kwale,Donkeys,2380
+Kwale,Pigs,1350
+Kwale,cattle,620868
+Kilifi,Sheep,112962
+Kilifi,Goats,1084514
+Kilifi,Camels,4044
+Kilifi,Donkeys,5508
+Kilifi,Pigs,6638
+Kilifi,cattle,472914
+Tana River,Sheep,896132
+Tana River,Goats,1181712
+Tana River,Camels,106596
+Tana River,Donkeys,30634
+Tana River,Pigs,38
+Tana River,cattle,543666
+Lamu,Sheep,84290
+Lamu,Goats,195758
+Lamu,Camels,250
+Lamu,Donkeys,3928
+Lamu,Pigs,560
+Lamu,cattle,196642
+Taita Taveta,Sheep,93070
+Taita Taveta,Goats,404226
+Taita Taveta,Camels,5260
+Taita Taveta,Donkeys,5876
+Taita Taveta,Pigs,3210
+Taita Taveta,cattle,229628
+Garissa,Sheep,5493154
+Garissa,Goats,7714584
+Garissa,Camels,1632114
+Garissa,Donkeys,211086
+Garissa,Pigs,0
+Garissa,cattle,2841382
+Wajir,Sheep,4381276
+Wajir,Goats,6396568
+Wajir,Camels,2353064
+Wajir,Donkeys,247502
+Wajir,Pigs,0
+Wajir,cattle,1734462
+Mandera,Sheep,4452066
+Mandera,Goats,9797614
+Mandera,Camels,3657330
+Mandera,Donkeys,310780
+Mandera,Pigs,0
+Mandera,cattle,2365978
+Marsabit,Sheep,1255664
+Marsabit,Goats,1488950
+Marsabit,Camels,430468
+Marsabit,Donkeys,100012
+Marsabit,Pigs,130
+Marsabit,cattle,481472
+Isiolo,Sheep,1709450
+Isiolo,Goats,2060010
+Isiolo,Camels,297718
+Isiolo,Donkeys,67384
+Isiolo,Pigs,316
+Isiolo,cattle,543196
+Meru,Sheep,277542
+Meru,Goats,684396
+Meru,Camels,11464
+Meru,Donkeys,11644
+Meru,Pigs,61578
+Meru,cattle,624368
+Tharaka Nithi,Sheep,107632
+Tharaka Nithi,Goats,428434
+Tharaka Nithi,Camels,248
+Tharaka Nithi,Donkeys,11734
+Tharaka Nithi,Pigs,17506
+Tharaka Nithi,cattle,181412
+Embu,Sheep,90492
+Embu,Goats,538266
+Embu,Camels,456
+Embu,Donkeys,23042
+Embu,Pigs,25674
+Embu,cattle,276830
+Kitui,Sheep,211660
+Kitui,Goats,2741120
+Kitui,Camels,10404
+Kitui,Donkeys,325218
+Kitui,Pigs,2508
+Kitui,cattle,687264
+Machakos,Sheep,343050
+Machakos,Goats,1249782
+Machakos,Camels,2946
+Machakos,Donkeys,49588
+Machakos,Pigs,11034
+Machakos,cattle,724702
+Makueni,Sheep,266230
+Makueni,Goats,1599276
+Makueni,Camels,2222
+Makueni,Donkeys,80622
+Makueni,Pigs,3004
+Makueni,cattle,651606
+Nyandarua,Sheep,555524
+Nyandarua,Goats,74018
+Nyandarua,Camels,0
+Nyandarua,Donkeys,18916
+Nyandarua,Pigs,8034
+Nyandarua,cattle,422726
+Nyeri,Sheep,307456
+Nyeri,Goats,214920
+Nyeri,Camels,0
+Nyeri,Donkeys,1544
+Nyeri,Pigs,30376
+Nyeri,cattle,329014
+Kirinyaga,Sheep,53502
+Kirinyaga,Goats,213688
+Kirinyaga,Camels,0
+Kirinyaga,Donkeys,4808
+Kirinyaga,Pigs,31818
+Kirinyaga,cattle,232882
+Murang'a,Sheep,112950
+Murang'a,Goats,347526
+Murang'a,Camels,0
+Murang'a,Donkeys,1828
+Murang'a,Pigs,97550
+Murang'a,cattle,420206
+Kiambu,Sheep,236778
+Kiambu,Goats,167194
+Kiambu,Camels,0
+Kiambu,Donkeys,10614
+Kiambu,Pigs,169982
+Kiambu,cattle,400788
+Turkana,Sheep,2107512
+Turkana,Goats,3981858
+Turkana,Camels,523846
+Turkana,Donkeys,233612
+Turkana,Pigs,1984
+Turkana,cattle,649608
+West Pokot,Sheep,716586
+West Pokot,Goats,1528350
+West Pokot,Camels,38778
+West Pokot,Donkeys,16866
+West Pokot,Pigs,682
+West Pokot,cattle,833676
+Samburu,Sheep,1133544
+Samburu,Goats,1433174
+Samburu,Camels,96344
+Samburu,Donkeys,59750
+Samburu,Pigs,540
+Samburu,cattle,571266
+Trans Nzoia,Sheep,272690
+Trans Nzoia,Goats,56398
+Trans Nzoia,Camels,0
+Trans Nzoia,Donkeys,10064
+Trans Nzoia,Pigs,9664
+Trans Nzoia,cattle,366936
+Uasin Gishu,Sheep,439850
+Uasin Gishu,Goats,91708
+Uasin Gishu,Camels,296
+Uasin Gishu,Donkeys,4560
+Uasin Gishu,Pigs,18264
+Uasin Gishu,cattle,556844
+Elgeyo Marakwet,Sheep,380062
+Elgeyo Marakwet,Goats,199852
+Elgeyo Marakwet,Camels,178
+Elgeyo Marakwet,Donkeys,5532
+Elgeyo Marakwet,Pigs,824
+Elgeyo Marakwet,cattle,300906
+Nandi,Sheep,195424
+Nandi,Goats,70192
+Nandi,Camels,0
+Nandi,Donkeys,8688
+Nandi,Pigs,1724
+Nandi,cattle,486836
+Baringo,Sheep,686686
+Baringo,Goats,1867454
+Baringo,Camels,77000
+Baringo,Donkeys,36218
+Baringo,Pigs,864
+Baringo,cattle,819692
+Laikipia,Sheep,1227564
+Laikipia,Goats,805052
+Laikipia,Camels,15654
+Laikipia,Donkeys,17934
+Laikipia,Pigs,5370
+Laikipia,cattle,540130
+Nakuru,Sheep,1064442
+Nakuru,Goats,410784
+Nakuru,Camels,776
+Nakuru,Donkeys,45584
+Nakuru,Pigs,33790
+Nakuru,cattle,793052
+Narok,Sheep,5207084
+Narok,Goats,2031690
+Narok,Camels,3238
+Narok,Donkeys,163864
+Narok,Pigs,4108
+Narok,cattle,2977782
+Kajiado,Sheep,2241298
+Kajiado,Goats,1755488
+Kajiado,Camels,7168
+Kajiado,Donkeys,100306
+Kajiado,Pigs,24780
+Kajiado,cattle,1155420
+Kericho,Sheep,112476
+Kericho,Goats,143750
+Kericho,Camels,0
+Kericho,Donkeys,23880
+Kericho,Pigs,1588
+Kericho,cattle,483296
+Bomet,Sheep,160984
+Bomet,Goats,152918
+Bomet,Camels,0
+Bomet,Donkeys,21970
+Bomet,Pigs,612
+Bomet,cattle,636418
+Kakamega,Sheep,113768
+Kakamega,Goats,156288
+Kakamega,Camels,0
+Kakamega,Donkeys,2160
+Kakamega,Pigs,57268
+Kakamega,cattle,806900
+Vihiga,Sheep,12290
+Vihiga,Goats,61708
+Vihiga,Camels,0
+Vihiga,Donkeys,154
+Vihiga,Pigs,9256
+Vihiga,cattle,253236
+Bungoma,Sheep,156988
+Bungoma,Goats,219386
+Bungoma,Camels,0
+Bungoma,Donkeys,12116
+Bungoma,Pigs,31860
+Bungoma,cattle,702518
+Busia,Sheep,43408
+Busia,Goats,164606
+Busia,Camels,0
+Busia,Donkeys,466
+Busia,Pigs,114008
+Busia,cattle,413256
+Siaya,Sheep,266220
+Siaya,Goats,326444
+Siaya,Camels,0
+Siaya,Donkeys,11974
+Siaya,Pigs,28350
+Siaya,cattle,652362
+Kisumu,Sheep,327074
+Kisumu,Goats,275392
+Kisumu,Camels,0
+Kisumu,Donkeys,7084
+Kisumu,Pigs,9510
+Kisumu,cattle,485992
+Homa Bay,Sheep,296748
+Homa Bay,Goats,359110
+Homa Bay,Camels,0
+Homa Bay,Donkeys,28092
+Homa Bay,Pigs,8914
+Homa Bay,cattle,681938
+Migori,Sheep,141704
+Migori,Goats,284408
+Migori,Camels,0
+Migori,Donkeys,11788
+Migori,Pigs,5844
+Migori,cattle,646640
+Kisii,Sheep,22002
+Kisii,Goats,113892
+Kisii,Camels,0
+Kisii,Donkeys,2762
+Kisii,Pigs,2842
+Kisii,cattle,433716
+Nyamira,Sheep,23574
+Nyamira,Goats,78670
+Nyamira,Camels,0
+Nyamira,Donkeys,1456
+Nyamira,Pigs,2682
+Nyamira,cattle,239250
+Nairobi,Sheep,38218
+Nairobi,Goats,56830
+Nairobi,Camels,0
+Nairobi,Donkeys,1084
+Nairobi,Pigs,32824
+Nairobi,cattle,58658

@@ -1,0 +1,424 @@
+"county","year","pop"
+"Baringo",2014,598102
+"Baringo",2015,611244
+"Baringo",2016,624675
+"Baringo",2017,638401
+"Baringo",2018,652428
+"Baringo",2019,666763
+"Baringo",2020,687000
+"Baringo",2021,702000
+"Bomet",2014,817740
+"Bomet",2015,829015
+"Bomet",2016,840445
+"Bomet",2017,852033
+"Bomet",2018,863780
+"Bomet",2019,875689
+"Bomet",2020,902000
+"Bomet",2021,914000
+"Bungoma",2014,1537222
+"Bungoma",2015,1563012
+"Bungoma",2016,1589234
+"Bungoma",2017,1615896
+"Bungoma",2018,1643006
+"Bungoma",2019,1670570
+"Bungoma",2020,1700000
+"Bungoma",2021,1729000
+"Busia",2014,810293
+"Busia",2015,826324
+"Busia",2016,842672
+"Busia",2017,859343
+"Busia",2018,876344
+"Busia",2019,893681
+"Busia",2020,914000
+"Busia",2021,932000
+"Elgeyo Marakwet",2014,422686
+"Elgeyo Marakwet",2015,428862
+"Elgeyo Marakwet",2016,435128
+"Elgeyo Marakwet",2017,441485
+"Elgeyo Marakwet",2018,447935
+"Elgeyo Marakwet",2019,454480
+"Elgeyo Marakwet",2020,474000
+"Elgeyo Marakwet",2021,481000
+"Embu",2014,577895
+"Embu",2015,583909
+"Embu",2016,589986
+"Embu",2017,596126
+"Embu",2018,602330
+"Embu",2019,608599
+"Embu",2020,629000
+"Embu",2021,635000
+"Garissa",2014,743978
+"Garissa",2015,762507
+"Garissa",2016,781497
+"Garissa",2017,800960
+"Garissa",2018,820908
+"Garissa",2019,841353
+"Garissa",2020,861000
+"Garissa",2021,883000
+"Homa Bay",2014,1027377
+"Homa Bay",2015,1047489
+"Homa Bay",2016,1067994
+"Homa Bay",2017,1088901
+"Homa Bay",2018,1110217
+"Homa Bay",2019,1131950
+"Homa Bay",2020,1162000
+"Homa Bay",2021,1185000
+"Isiolo",2014,238079
+"Isiolo",2015,243784
+"Isiolo",2016,249625
+"Isiolo",2017,255606
+"Isiolo",2018,261731
+"Isiolo",2019,268002
+"Isiolo",2020,294000
+"Isiolo",2021,301000
+"Kajiado",2014,989478
+"Kajiado",2015,1013913
+"Kajiado",2016,1038952
+"Kajiado",2017,1064609
+"Kajiado",2018,1090900
+"Kajiado",2019,1117840
+"Kajiado",2020,1179000
+"Kajiado",2021,1209000
+"Kakamega",2014,1706308
+"Kakamega",2015,1737408
+"Kakamega",2016,1769074
+"Kakamega",2017,1801318
+"Kakamega",2018,1834149
+"Kakamega",2019,1867579
+"Kakamega",2020,1897000
+"Kakamega",2021,1932000
+"Kericho",2014,842955
+"Kericho",2015,854404
+"Kericho",2016,866009
+"Kericho",2017,877771
+"Kericho",2018,889693
+"Kericho",2019,901777
+"Kericho",2020,917000
+"Kericho",2021,930000
+"Kiambu",2014,2191022
+"Kiambu",2015,2234597
+"Kiambu",2016,2279038
+"Kiambu",2017,2324363
+"Kiambu",2018,2370589
+"Kiambu",2019,2417735
+"Kiambu",2020,2501000
+"Kiambu",2021,2552000
+"Kilifi",2014,1320154
+"Kilifi",2015,1345860
+"Kilifi",2016,1372066
+"Kilifi",2017,1398783
+"Kilifi",2018,1426020
+"Kilifi",2019,1453787
+"Kilifi",2020,1489000
+"Kilifi",2021,1518000
+"Kirinyaga",2014,585497
+"Kirinyaga",2015,590397
+"Kirinyaga",2016,595338
+"Kirinyaga",2017,600321
+"Kirinyaga",2018,605345
+"Kirinyaga",2019,610411
+"Kirinyaga",2020,637000
+"Kirinyaga",2021,642000
+"Kisii",2014,1207817
+"Kisii",2015,1219401
+"Kisii",2016,1231096
+"Kisii",2017,1242904
+"Kisii",2018,1254825
+"Kisii",2019,1266860
+"Kisii",2020,1307000
+"Kisii",2021,1319000
+"Kisumu",2014,1060632
+"Kisumu",2015,1078975
+"Kisumu",2016,1097635
+"Kisumu",2017,1116618
+"Kisumu",2018,1135929
+"Kisumu",2019,1155574
+"Kisumu",2020,1186000
+"Kisumu",2021,1207000
+"Kitui",2014,1069633
+"Kitui",2015,1082624
+"Kitui",2016,1095773
+"Kitui",2017,1109082
+"Kitui",2018,1122553
+"Kitui",2019,1136187
+"Kitui",2020,1186000
+"Kitui",2021,1201000
+"Kwale",2014,768857
+"Kwale",2015,787521
+"Kwale",2016,806638
+"Kwale",2017,826219
+"Kwale",2018,846276
+"Kwale",2019,866820
+"Kwale",2020,879000
+"Kwale",2021,901000
+"Laikipia",2014,469694
+"Laikipia",2015,479084
+"Laikipia",2016,488662
+"Laikipia",2017,498431
+"Laikipia",2018,508396
+"Laikipia",2019,518560
+"Laikipia",2020,529000
+"Laikipia",2021,539000
+"Lamu",2014,126352
+"Lamu",2015,129685
+"Lamu",2016,133106
+"Lamu",2017,136617
+"Lamu",2018,140221
+"Lamu",2019,143920
+"Lamu",2020,155000
+"Lamu",2021,159000
+"Machakos",2014,1350195
+"Machakos",2015,1364247
+"Machakos",2016,1378445
+"Machakos",2017,1392791
+"Machakos",2018,1407286
+"Machakos",2019,1421932
+"Machakos",2020,1442000
+"Machakos",2021,1457000
+"Makueni",2014,934042
+"Makueni",2015,944526
+"Makueni",2016,955128
+"Makueni",2017,965849
+"Makueni",2018,976690
+"Makueni",2019,987653
+"Makueni",2020,1008000
+"Makueni",2021,1019000
+"Mandera",2014,761572
+"Mandera",2015,781661
+"Mandera",2016,802280
+"Mandera",2017,823442
+"Mandera",2018,845163
+"Mandera",2019,867457
+"Mandera",2020,887000
+"Mandera",2021,911000
+"Marsabit",2014,408240
+"Marsabit",2015,418065
+"Marsabit",2016,428126
+"Marsabit",2017,438429
+"Marsabit",2018,448980
+"Marsabit",2019,459785
+"Marsabit",2020,480000
+"Marsabit",2021,491000
+"Meru",2014,1450757
+"Meru",2015,1469270
+"Meru",2016,1488019
+"Meru",2017,1507007
+"Meru",2018,1526238
+"Meru",2019,1545714
+"Meru",2020,1565000
+"Meru",2021,1586000
+"Migori",2014,988235
+"Migori",2015,1012640
+"Migori",2016,1037647
+"Migori",2017,1063272
+"Migori",2018,1089530
+"Migori",2019,1116436
+"Migori",2020,1147000
+"Migori",2021,1176000
+"Mombasa",2014,1082243
+"Mombasa",2015,1106362
+"Mombasa",2016,1131018
+"Mombasa",2017,1156224
+"Mombasa",2018,1181991
+"Mombasa",2019,1208333
+"Mombasa",2020,1228000
+"Mombasa",2021,1256000
+"Murang'a",2014,1001307
+"Murang'a",2015,1012137
+"Murang'a",2016,1023084
+"Murang'a",2017,1034149
+"Murang'a",2018,1045334
+"Murang'a",2019,1056640
+"Murang'a",2020,1077000
+"Murang'a",2021,1088000
+"Nairobi",2014,4041978
+"Nairobi",2015,4110625
+"Nairobi",2016,4180438
+"Nairobi",2017,4251437
+"Nairobi",2018,4323642
+"Nairobi",2019,4397073
+"Nairobi",2020,4516000
+"Nairobi",2021,4594000
+"Nakuru",2014,1942522
+"Nakuru",2015,1984595
+"Nakuru",2016,2027580
+"Nakuru",2017,2071496
+"Nakuru",2018,2116363
+"Nakuru",2019,2162202
+"Nakuru",2020,2202000
+"Nakuru",2021,2251000
+"Nandi",2014,816256
+"Nandi",2015,829697
+"Nandi",2016,843359
+"Nandi",2017,857246
+"Nandi",2018,871362
+"Nandi",2019,885711
+"Nandi",2020,906000
+"Nandi",2021,921000
+"Narok",2014,1002532
+"Narok",2015,1031836
+"Narok",2016,1061997
+"Narok",2017,1093039
+"Narok",2018,1124989
+"Narok",2019,1157873
+"Narok",2020,1178000
+"Narok",2021,1213000
+"Nyamira",2014,588216
+"Nyamira",2015,591648
+"Nyamira",2016,595100
+"Nyamira",2017,598572
+"Nyamira",2018,602064
+"Nyamira",2019,605576
+"Nyamira",2020,646000
+"Nyamira",2021,650000
+"Nyandarua",2014,580503
+"Nyandarua",2015,591626
+"Nyandarua",2016,602962
+"Nyandarua",2017,614515
+"Nyandarua",2018,626289
+"Nyandarua",2019,638289
+"Nyandarua",2020,657000
+"Nyandarua",2021,670000
+"Nyeri",2014,720500
+"Nyeri",2015,728072
+"Nyeri",2016,735724
+"Nyeri",2017,743456
+"Nyeri",2018,751269
+"Nyeri",2019,759164
+"Nyeri",2020,810000
+"Nyeri",2021,818000
+"Samburu",2014,269525
+"Samburu",2015,277232
+"Samburu",2016,285159
+"Samburu",2017,293313
+"Samburu",2018,301700
+"Samburu",2019,310327
+"Samburu",2020,320000
+"Samburu",2021,330000
+"Siaya",2014,906495
+"Siaya",2015,923205
+"Siaya",2016,940223
+"Siaya",2017,957555
+"Siaya",2018,975206
+"Siaya",2019,993183
+"Siaya",2020,1003000
+"Siaya",2021,1022000
+"Taita Taveta",2014,320392
+"Taita Taveta",2015,324349
+"Taita Taveta",2016,328355
+"Taita Taveta",2017,332410
+"Taita Taveta",2018,336515
+"Taita Taveta",2019,340671
+"Taita Taveta",2020,351000
+"Taita Taveta",2021,355000
+"Tana River",2014,277521
+"Tana River",2015,284812
+"Tana River",2016,292295
+"Tana River",2017,299974
+"Tana River",2018,307855
+"Tana River",2019,315943
+"Tana River",2020,326000
+"Tana River",2021,335000
+"Tharaka Nithi",2014,372588
+"Tharaka Nithi",2015,376618
+"Tharaka Nithi",2016,380691
+"Tharaka Nithi",2017,384808
+"Tharaka Nithi",2018,388970
+"Tharaka Nithi",2019,393177
+"Tharaka Nithi",2020,403000
+"Tharaka Nithi",2021,408000
+"Trans Nzoia",2014,901143
+"Trans Nzoia",2015,918316
+"Trans Nzoia",2016,935816
+"Trans Nzoia",2017,953649
+"Trans Nzoia",2018,971822
+"Trans Nzoia",2019,990341
+"Trans Nzoia",2020,1010000
+"Trans Nzoia",2021,1030000
+"Turkana",2014,813827
+"Turkana",2015,835294
+"Turkana",2016,857327
+"Turkana",2017,879942
+"Turkana",2018,903153
+"Turkana",2019,926976
+"Turkana",2020,946000
+"Turkana",2021,972000
+"Uasin Gishu",2014,1050892
+"Uasin Gishu",2015,1072448
+"Uasin Gishu",2016,1094446
+"Uasin Gishu",2017,1116896
+"Uasin Gishu",2018,1139806
+"Uasin Gishu",2019,1163186
+"Uasin Gishu",2020,1183000
+"Uasin Gishu",2021,1208000
+"Vihiga",2014,565646
+"Vihiga",2015,570438
+"Vihiga",2016,575270
+"Vihiga",2017,580143
+"Vihiga",2018,585057
+"Vihiga",2019,590013
+"Vihiga",2020,610000
+"Vihiga",2021,615000
+"Wajir",2014,684141
+"Wajir",2015,702548
+"Wajir",2016,721450
+"Wajir",2017,740861
+"Wajir",2018,760794
+"Wajir",2019,781263
+"Wajir",2020,804000
+"Wajir",2021,826000
+"West Pokot",2014,553860
+"West Pokot",2015,566725
+"West Pokot",2016,579888
+"West Pokot",2017,593357
+"West Pokot",2018,607139
+"West Pokot",2019,621241
+"West Pokot",2020,631000
+"West Pokot",2021,646000
+"Mombasa",2022,1284000
+"Kwale",2022,923000
+"Kilifi",2022,1548000
+"Tana River",2022,344000
+"Lamu",2022,163000
+"Taita Taveta",2022,360000
+"Garissa",2022,905000
+"Wajir",2022,848000
+"Mandera",2022,935000
+"Marsabit",2022,503000
+"Isiolo",2022,309000
+"Meru",2022,1606000
+"Tharaka Nithi",2022,412000
+"Embu",2022,642000
+"Kitui",2022,1215000
+"Machakos",2022,1472000
+"Makueni",2022,1031000
+"Nyandarua",2022,683000
+"Nyeri",2022,827000
+"Kirinyaga",2022,648000
+"Murang'a",2022,1100000
+"Kiambu",2022,2602000
+"Turkana",2022,997000
+"West Pokot",2022,661000
+"Samburu",2022,339000
+"Trans Nzoia",2022,1049000
+"Uasin Gishu",2022,1233000
+"Elgeyo Marakwet",2022,488000
+"Nandi",2022,936000
+"Baringo",2022,718000
+"Laikipia",2022,550000
+"Nakuru",2022,2299000
+"Narok",2022,1249000
+"Kajiado",2022,1238000
+"Kericho",2022,942000
+"Bomet",2022,927000
+"Kakamega",2022,1967000
+"Vihiga",2022,620000
+"Bungoma",2022,1758000
+"Busia",2022,950000
+"Siaya",2022,1041000
+"Kisumu",2022,1228000
+"Homa Bay",2022,1208000
+"Migori",2022,1205000
+"Kisii",2022,1332000
+"Nyamira",2022,654000
+"Nairobi",2022,4672000

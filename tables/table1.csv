@@ -1,0 +1,6 @@
+Species,Total cases,Average cases,Clinically confirmed,Lab confirmed,Post Mortem,Mean incidence rate,Minimum incidence rate,Median incidence rate,Maximum incidence rate,SD of incidence rate
+Human,"4,688,787","520,976.3","1,058,236 (22.57%)","3,630,551 (77.43%)",0 (0%),"10,992.68",2292.39,11968.15,14764.17,3918.56
+Cattle,427,47.4,270 (63.23%),140 (32.79%),17 (3.98%),3.01,0,1.97,6.47,2.74
+Camel,32,3.6,30 (93.75%),2 (6.25%),0 (0%),0.77,0,0,3.02,1.15
+Goat,656,72.9,514 (78.35%),142 (21.65%),0 (0%),2.6,0,1.11,10.32,3.47
+Sheep,99,11.0,82 (82.83%),17 (17.17%),0 (0%),0.57,0,0.05,1.86,0.72
