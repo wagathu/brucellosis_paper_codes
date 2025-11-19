@@ -18,6 +18,7 @@ pacman::p_load(
   tidyr
 )
 source("R/functions.R")
+
 # Importing data ----------------------------------------------------------
 
 list2env(readRDS("data/all_dfs.RDS"), envir = .GlobalEnv)
@@ -237,12 +238,14 @@ human_only_plot <- ggplot() +
   labs(col = NULL, fill = NULL) +
   theme_minimal() +
   theme(
-    axis.text = element_text(color = "black"),
-    axis.title = element_text(color = "black"),
+    axis.text = element_text(color = "black", size = 15),
+    axis.title = element_text(color = "black", size = 16),
     axis.ticks = element_line(color = "black"),
     legend.position = "bottom",
     plot.title = element_text(color = "black", hjust = .5),
-    legend.text = element_text(color = "black")
+    legend.text = element_text(color = "black", size = 15),
+    legend.title = element_text(color = "black", size = 16),
+    legend.key.size = unit(1.5, "lines")
   ) +
   labs(x = "Date", y = "Incidence")
   
@@ -286,12 +289,14 @@ best_train_model_plot <- ggplot() +
   labs(col = NULL, fill = NULL) +
   theme_minimal() +
   theme(
-    axis.text = element_text(color = "black"),
-    axis.title = element_text(color = "black"),
+    axis.text = element_text(color = "black", size = 15),
+    axis.title = element_text(color = "black", size = 16),
     axis.ticks = element_line(color = "black"),
     legend.position = "bottom",
     plot.title = element_text(color = "black", hjust = .5),
-    legend.text = element_text(color = "black")
+    legend.text = element_text(color = "black", size = 15),
+    legend.title = element_text(color = "black", size = 16),
+    legend.key.size = unit(1.5, "lines")
   ) +
   labs(x = "Date", y = "Incidence")
 
@@ -311,7 +316,7 @@ ggsave(
       tag_levels = list(c("(a)", "(b)"))
     ) ,
   filename = "plots/train_models_plot.png",
-  dpi = 5e2,
+  dpi = 5e2, 
   width = 3 * 5,
   height = 2 * 5,
   units = "in",
@@ -342,10 +347,10 @@ fwrite(model_metrics_results, "tables/time_series_comparison.csv", row.names = F
 
 # Retraining the model at lag 1 -------------------------------------------
 
-test2 <- d2 |>
+test2 <- d |>
   filter(date > yearmonth("2022-12-01"))
 
-full_model <- d2 |> 
+full_model <- d |> 
   filter(date <= yearmonth("2022-12-01")) |> 
   as_tsibble(index = date) |> 
   model(ARIMA(hum_incidence, ic = "aic", stepwise = T))
@@ -388,20 +393,22 @@ full_model_plot <- ggplot() +
   labs(col = NULL, fill = NULL) +
   theme_minimal() +
   theme(
-    axis.text = element_text(color = "black"),
-    axis.title = element_text(color = "black"),
+    axis.text = element_text(color = "black", size = 15),
+    axis.title = element_text(color = "black", size = 16),
     axis.ticks = element_line(color = "black"),
     legend.position = "bottom",
     plot.title = element_text(color = "black", hjust = .5),
-    legend.text = element_text(color = "black")
+    legend.text = element_text(color = "black", size = 15),
+    legend.title = element_text(color = "black", size = 16),
+    legend.key.size = unit(1.5, "lines")
   ) +
   labs(x = "Date", y = "Incidence")
 
-ggsave(
+ggsave( 
   plot = full_model_plot,
   filename = "plots/full_model_plot.png",
   dpi = 5e2,
-  width = 2 * 5,
+  width = 2.5 * 5,
   height = 1 * 5,
   units = "in",
   bg = NULL

@@ -10,7 +10,11 @@ pacman::p_load(
   ggplot2,
   patchwork,
   scales,
-  purrr
+  purrr,
+  tsibble,
+  data.table,
+  forecast,
+  feasts
 )
 source("R/functions.R")
 
@@ -127,10 +131,9 @@ individual_fps <- imap(fp_df %>%
                              labs(x = "Species", y = "Estimate") +
                              theme_minimal() +
                              theme(
-                               axis.text.y = element_text(size = 10, color = 'black'),
-                               axis.title.x = element_text(size = 12, color = 'black'),
-                               axis.title.y = element_text(size = 12),
-                               plot.title = element_text(size = 16, hjust = 0.5),
+                               axis.text = element_text(size = 21, color = 'black'),
+                               axis.title = element_text(size = 18, color = 'black'),
+                               plot.title = element_text(size = 18, hjust = 0.5),
                                legend.position = "none"
                              ) +
                              ggtitle(paste("Lag", y))
@@ -154,12 +157,12 @@ individual_fp <- wrap_plots(individual_fps, axes = "collect")
 
 ggsave(
   plot = individual_fp,
-  filename = "plots/tslm_forest_plots.png",
-  dpi = 5e2,
+  filename = "plots/tslm_forest_plots.png", 
+  dpi = 1e3,
   width = 3 * 5,
-  height = 2 * 5,
+  height = 3 * 5,
   units = "in",
-  bg = NULL
+  bg = "white"
 )
 
 # Plotting the model diagnostics ------------------------------------------

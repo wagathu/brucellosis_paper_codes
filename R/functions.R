@@ -5,7 +5,7 @@ mapFunction <- \(df, column, title = NULL, levels = NULL, fill = NULL) {
   }
   map <- maps_df |>
     ggplot() +
-    geom_sf(aes(fill = get(column)), show.legend = T) +
+    geom_sf(aes(fill = get(column)), show.legend = T, color = "black") +
     scale_fill_manual(
       values = c("white", brewer.pal(5, "YlOrRd")),
       drop = F,
@@ -32,13 +32,14 @@ mapFunction <- \(df, column, title = NULL, levels = NULL, fill = NULL) {
       plot.title = element_text(
         color = "black",
         hjust = .5,
-        size = 16
+        size = 30,
+        vjust = .8
       ),
       legend.position = "bottom",
       legend.text = element_text(size = 12),
       legend.title = element_text(size = 12, colour = "black"),
       legend.key.size = unit(0.7, "cm"),
-      strip.text = element_text(colour = "black", size = 16)
+      strip.text = element_text(colour = "black", size = 26, vjust = -.1)
     ) +
     ggtitle(title) +
     labs(fill = fill)

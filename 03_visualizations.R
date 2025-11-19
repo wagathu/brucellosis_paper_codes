@@ -9,6 +9,8 @@ pacman::p_load(
   patchwork,
   RColorBrewer,
   data.table,
+  sf,
+  stringr,
   purrr
 )
 source("R/functions.R")
@@ -106,14 +108,14 @@ human_sm <- smoothed_ah |>
   theme_light() +
   theme(
     strip.background = element_rect(fill = "white", colour = "grey"),
-    strip.text = element_text(color = "black", size = 12),
-    axis.title = element_text(colour = "black"),
-    axis.text = element_text(color = "black"),
+    strip.text = element_text(color = "black", size = 17, face = "bold"),
+    axis.title = element_text(colour = "black", size = 17),
+    axis.text = element_text(color = "black", size = 16),
     axis.ticks = element_line(color = "black", linewidth = 1),
-    plot.title = element_text(color = "black", hjust = 0.5, size = 12),
-    axis.title.y = element_text(color = "black", size = 10),
+    plot.title = element_text(color = "black", hjust = 0.5, size = 16),
     legend.position = "bottom",
-    legend.text = element_text(color = "black")
+    legend.text = element_text(color = "black", size = 16),
+    legend.key.size = unit(3, "lines")
   ) +
   ylab("Incidence") +
   xlab("Year") 
@@ -126,28 +128,32 @@ animal_sm <- animal_sm_df |>
   theme_light() +
   theme(
     strip.background = element_rect(fill = "white", colour = "grey"),
-    strip.text = element_text(color = "black", size = 12),
-    axis.title = element_text(colour = "black"),
-    axis.text = element_text(color = "black"),
+    strip.text = element_text(color = "black", size = 17, face = "bold"),
+    axis.title = element_text(colour = "black", size = 17),
+    axis.text = element_text(color = "black", size = 16),
     axis.ticks = element_line(color = "black", linewidth = 1),
-    plot.title = element_text(color = "black", hjust = 0.5, size = 12),
-    axis.title.y = element_text(color = "black", size = 10),
+    plot.title = element_text(color = "black", hjust = 0.5, size = 16),
     legend.position = "bottom",
-    legend.text = element_text(color = "black")
+    legend.title = element_text(color = "black", size = 17),
+    legend.text = element_text(color = "black", size = 16),
+    legend.key.size = unit(2.5, "lines"),
+    legend.key.height = unit(10, "lines")
   ) +
+  guides(colour = guide_legend(override.aes = list(linewidth = 1.5))) +
+  guides(colour = guide_legend(override.aes = list(size = 2))) +
   ylab("Incidence") +
   xlab("Year") +
   labs(col = "Species")
 
-smoothed_plot <- human_sm / animal_sm &    plot_annotation(title = "", tag_levels = list(c("(a)", "(b)")))
+smoothed_plot <- human_sm / animal_sm & plot_annotation(title = "", tag_levels = list(c("(a)", "(b)")))
 ggsave(
   plot = smoothed_plot,
   filename = "plots/smoothed_plot.png",
-  dpi = 5e2,
+  dpi = 1e3,
   width = 2 * 5,
   height = 2 * 5,
   units = "in",
-  bg = NULL
+  bg = 'white'
 )
 
 # The maps ----------------------------------------------------------------
@@ -181,9 +187,9 @@ all_plots <-
     legend.key.size = unit(3, "lines"),
     legend.key.height = unit(3, "lines"),
     legend.spacing.x = unit(0.5, "lines"),
-    legend.spacing.y = unit(3, "lines"),
-    legend.title = element_text(color = "black", size = 18),
-    legend.text = element_text(color = "black", size = 18),
+    legend.spacing.y = unit(2, "lines"),
+    legend.title = element_text(color = "black", size = 26),
+    legend.text = element_text(color = "black", size = 26),
     legend.box.spacing = unit(0.2, "cm"),   
     legend.margin = margin(l = -20),         
     plot.margin = margin(r = 5) 
@@ -192,9 +198,9 @@ all_plots <-
 ggsave(
   plot = all_plots,
   filename = "plots/all_plots.png",
-  dpi = 5e2,
+  dpi = 7e2,
   width = 8 * 5,
   height = 5 * 5,
   units = "in",
-  bg = NULL
+  bg = 'white'
 )
